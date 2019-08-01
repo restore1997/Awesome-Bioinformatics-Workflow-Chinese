@@ -930,7 +930,7 @@ count矩阵的前六行如下所示。
 如何引用 {#how-to-cite .unnumbered}
 ====================
 
-请将此工作流文章引用为
+请如下引用该篇文章
 
 Chen, Yunshun, A. T. L. Lun, and G. K. Smyth. 2016. "From Reads to Genes to Pathways: Differential Expression Analysis of RNA-Seq Experiments Using Rsubread and the edgeR Quasi-Likelihood Pipeline." *F1000Research* 5:1438.
 
